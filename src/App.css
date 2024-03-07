@@ -1,0 +1,21 @@
+.flex {
+  display: flex;
+}
+
+
+.status-panel {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  width: 180px;
+  height: 60px;
+  border: 2px solid gray;
+
+  padding: 5px;
+}
+
+.w-300 {
+  width: 300px;
+}
